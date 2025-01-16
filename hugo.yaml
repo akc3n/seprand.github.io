@@ -47,6 +47,10 @@ params:
     displayTitle: true
     displayLogo: false
 
+  theme:
+    default: dark
+    displayToggle: true
+
   footer:
     displayCopyright: false
     displayPoweredBy: true
