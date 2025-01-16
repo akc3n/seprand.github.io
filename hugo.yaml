@@ -57,4 +57,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    base: "https://github.com/SePrAnd/seprand.github.io/tree/main/content"
