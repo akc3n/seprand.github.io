@@ -15,6 +15,6 @@ well as some content about GrapheneOS.
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
+  {{< card link="articles" title="Articles" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
