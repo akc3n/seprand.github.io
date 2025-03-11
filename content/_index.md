@@ -1,9 +1,9 @@
 ---
-title: SePrAnd
+title: Seprand
 toc: false
 ---
 
-Welcome to SePrAnd (Security Privacy Android).
+Welcome to Seprand (Security Privacy Android).
 
 Here you'll find some articles about mobile security and privacy written by community members, as
 well as some content about GrapheneOS.
