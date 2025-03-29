@@ -24,6 +24,6 @@ hugo mod get -u
 hugo mod tidy
 ```
 
-Finally, create a PR or commit the changes.
+Finally, create a PR with the changes.
 
 ** A weird note: If, for some reason, you start to see the `README.md` instead of the site after deploying, check the [repo settings](https://github.com/SePrAnd/seprand.github.io/settings/pages) and confirm under "Build and deployment" the source is set to "GitHub Actions".
