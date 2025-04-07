@@ -23,26 +23,23 @@ menu:
     - name: Articles
       pageRef: /articles
       weight: 1
-    - name: About
-      pageRef: /about
-      weight: 2
-    # - name: Contact ↗
-    #   url: "https://github.com/imfing"
-    #   weight: 3
+    # - name: Guides
+    #   pageRef: /guides
+    #   weight: 2
     - name: Search
-      weight: 4
+      weight: 3
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 4
       url: "https://github.com/SePrAnd/seprand.github.io"
       params:
         icon: github
-    # - name: Twitter
-    #   weight: 6
-    #   url: "https://twitter.com/"
-    #   params:
-    #     icon: x-twitter
+    - name: RSS Feed
+      weight: 5
+      url: "/index.xml"
+      params:
+        icon: rss
 
 params:
   description: Articles and Guides About GrapheneOS by the Community
@@ -62,6 +59,9 @@ params:
   editURL:
     enable: true
     base: "https://github.com/SePrAnd/seprand.github.io/tree/main/content"
+
+  page:
+    width: wide
 
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
